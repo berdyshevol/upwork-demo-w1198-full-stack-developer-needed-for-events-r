@@ -1,0 +1,5 @@
+{
+  "total": 11,
+  "passing": 11,
+  "spec_files": ["tests/booking-flow.spec.ts"]
+}
